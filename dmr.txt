@@ -1,3 +1,0 @@
-Yeah now this file is not tracked by git using .gitignore file
-
-don't know checking second time is it ignoring or not?
